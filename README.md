@@ -15,20 +15,4 @@ Sua API deve permitir:
 - O usuário salvar o roteiro que julgar interessante
 - O usuário filtra o roteiro por cidade
 
-<hr>
-
-# Plano de aula
-
-## Revisão - 02/10, segunda-feira
-
-### Configuração do projeto
-
-- Tempo: 19:04
-- Descrição: 
-
-### Cadastro
-
-- Tempo: 19:19
-- Descrição: 
-
 
